@@ -32,39 +32,43 @@ App2
 
 Our Application 
 
+
 1) Main page Guest, Student, and Faculty sign-in 
 	
-	*Guest to view newsletters and courses - possible future students
+* Guest to view newsletters and courses - possible future students
+
 
 2) Timetable 
 
-	* Students and Lectures have their accounts and can access their own timetables
+* Students and Lectures have their accounts and can access their own timetables
+
 
 3) Courses
 
-	* Catalog of available courses (Guest and Student)
+* Catalog of available courses (Guest and Student)
 
-	* Assignment submissions (Students and Lectures)
+* Assignment submissions (Students and Lectures)
 
 
 4) Student Services
 
-	* Student Union
+* Student Union
 
-	* Campus Map
+* Campus Map
 		
-		* View of all college campuses (Waterford, Carlow, and Wexford)
+	* View of all college campuses (Waterford, Carlow, and Wexford)
 
-	* Clubs & Socs
+* Clubs & Socs
+
 
 5) Alumni 
 
-	* Events and Networking 
+* Events and Networking 
 
 
 6) Career Services 
 
-	* Job postings
+* Job postings
 	
-	* Internships
+* Internships
 
