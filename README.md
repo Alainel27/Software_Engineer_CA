@@ -30,12 +30,12 @@ the features that you might use in your own design.
 
 Step 2: Features, Scenarios and Stories
 
- Develop a feature list for your product. Document how you derived this list.
- Create personas.
- Create scenarios for your product.
- Create user stories.
- Revisit the feature list and amend based on personas, scenarios, and user stories
- Create a prototype using one of the tools discussed in class
+* Develop a feature list for your product. Document how you derived this list.
+* Create personas.
+* Create scenarios for your product.
+* Create user stories.
+* Revisit the feature list and amend based on personas, scenarios, and user stories
+* Create a prototype using one of the tools discussed in class
 
 Step 3: UML Modelling
 
