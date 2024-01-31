@@ -34,22 +34,22 @@ Step 2: Features, Scenarios and Stories
  Create personas.
  Create scenarios for your product.
  Create user stories.
- Revisit feature list and amend based on personas, scenarios, and user stories
+ Revisit the feature list and amend based on personas, scenarios, and user stories
  Create a prototype using one of the tools discussed in class
 
 Step 3: UML Modelling
 
- Create one high level Use Case Diagram to model the overall requirements of the app.
- Create an Activity Diagram to model main activities/functions performed by the app.
- Create a Class Diagram to describe the structure of the system, include classes, attributes operations
-and relationships.
+* Create one high level Use Case Diagram to model the overall requirements of the app.
+* Create an Activity Diagram to model main activities/functions performed by the app.
+* Create a Class Diagram to describe the structure of the system, include classes, attributes operations and relationships.
 
 Step 4: JUnit Tests
 
- Create JUnit tests that checks the functionality of two separate parts of the system.
-This is not a huge task, you are running tests to ensure that the outcome of the test is the expected one.
-You will demonstrate these tests in one of your practical labs and you will also copy the code to your final
-documentation in the appendix section.
+* Create JUnit tests that checks the functionality of two separate parts of the system.
+ 
+* This is not a huge task, you are running tests to ensure that the outcome of the test is the expected one.
+
+* You will demonstrate these tests in one of your practical labs and you will also copy the code to your final documentation in the appendix section.
 
 In your document please ensure you have included a cover page, table of contents, page numbers and
 headers/footers. Edit your document so there are no obvious spelling/grammar mistakes etc.
