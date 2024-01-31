@@ -54,34 +54,34 @@ Step 4: JUnit Tests
 In your document please ensure you have included a cover page, table of contents, page numbers and
 headers/footers. Edit your document so there are no obvious spelling/grammar mistakes etc.
 
-Product Vision/Research Completed & Uploaded 8th of February - 5%
+* Product Vision/Research Completed & Uploaded 8th of February - 5%
 
-Features Completed & Uploaded 22nd of February - 9%
+* Features Completed & Uploaded 22nd of February - 9%
 
-Personas (min 3) Completed & Uploaded 7th of March - 9%
+* Personas (min 3) Completed & Uploaded 7th of March - 9%
 
-Scenarios (min 3) Completed & Uploaded 14th of March - 9%
+* Scenarios (min 3) Completed & Uploaded 14th of March - 9%
 
-User Stories (min 6) Completed & Uploaded 28th of March - 6%
+* User Stories (min 6) Completed & Uploaded 28th of March - 6%
 
-Features Revisited and Revised Completed & Uploaded 28th of March - 5%
+* Features Revisited and Revised Completed & Uploaded 28th of March - 5%
 
-Use Case Diagram Put in final documentation - 5%
+* Use Case Diagram Put in final documentation - 5%
 
-Activity Diagram Put in final documentation - 5%
+* Activity Diagram Put in final documentation - 5%
 
-Class Diagram Put in final documentation - 8%
+* Class Diagram Put in final documentation - 8%
 
-Git Participation Weekly basis - 5%
+* Git Participation Weekly basis - 5%
 
-Trello Participation Weekly basis - 5%
+* Trello Participation Weekly basis - 5%
 
-JUnit Tests x 2 Week beginning 15th of April - 14% class demo include code in documentation in Appendix section
+* JUnit Tests x 2 Week beginning 15th of April - 14% class demo include code in documentation in Appendix section
 
-Prototype Final Documentation - 10%
+* Prototype Final Documentation - 10%
 
-Quality of Documentation 5%
+* Quality of Documentation 5%
 
-Final Document Completed 25th of April (uploaded to Moodle)
+* Final Document Completed 25th of April (uploaded to Moodle)
 
 Total 100%
