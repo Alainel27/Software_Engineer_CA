@@ -32,25 +32,33 @@ App2
 
 Our Application 
 
+1) Name Ideas
 
-1) Main page Guest, Student, and Faculty sign-in 
+	* SetuScholar
+	* Setu(Campus)Companion
+	* SetuCompass
+	* SetuPortal
+	* SetuConnect
+
+
+3) Main page Guest, Student, and Faculty sign-in 
 	
 	* Guest to view newsletters and courses - possible future students
 
 
-2) Timetable 
+4) Timetable 
 
 	* Students and Lectures have their accounts and can access their own timetables
 
 
-3) Courses
+5) Courses
 
 	* Catalog of available courses (Guest and Student)
 
 	* Assignment submissions (Students and Lectures)
 
 
-4) Student Services
+6) Student Services
 
 	* Student Union
 
@@ -61,12 +69,12 @@ Our Application
 	* Clubs & Socs
 
 
-5) Alumni 
+7) Alumni 
 
 	* Events and Networking 
 
 
-6) Career Services 
+8) Career Services 
 
 	* Job postings
 	
