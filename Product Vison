@@ -3,7 +3,7 @@ the features that you might use in your own design.
 1) FOR (target customer)
 2) WHO (statement of the need or opportunity)
 3) The (PRODUCT NAME)
-4)is a (product category)
+4) is a (product category)
 5) THAT (key benefit, compelling reason to buy)
 6) UNLIKE (primary competitive alternative)
 7) OUR PRODUCT (statement of primary differentiation)
@@ -32,39 +32,39 @@ App2
 
 Our Application 
 
-0.Main page Guest, Student and Faculty sign in 
+1) Main page Guest, Student, and Faculty sign-in 
 	
-	+ Guest to view newslets and courses - possible future students
+	* Guest to view newsletters and courses - possible future students
 
-1.Timetable 
+2) Timetable 
 
-	+ Students and Lectures have their own account can acces there own timetables
+	* Students and Lectures have their accounts and can access their own timetables
 
-3.Courses
+3) Courses
 
-	+ Catalog of available courses (Guest and Student)
+	* Catalog of available courses (Guest and Student)
 
-	+ Assignment submissions (Students and Lectures)
+	* Assignment submissions (Students and Lectures)
 
 
-4.Student Services
+4) Student Services
 
-	+Student Union
+	* Student Union
 
-	+Campus Map
+	* Campus Map
 		
-		+ View of all colleges campus (Waterford, Carlow and Wexford
+		* View of all college campuses (Waterford, Carlow, and Wexford)
 
-	+ Clubs & Socs
+	* Clubs & Socs
 
-5.Alumi 
+5) Alumni 
 
-	+ Events anf Networking 
+	* Events and Networking 
 
 
-6.Career Services 
+6) Career Services 
 
-	+ Job postings
+	* Job postings
 	
-	+ Internships
+	* Internships
 
