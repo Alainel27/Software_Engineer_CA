@@ -18,51 +18,51 @@ App2
 
 	Slack
 
+
 1) FOR (target customer) = Students and Faculty of SETU
 
-2) WHO (statement of the need or opportunity) - No such application for the College 
+2) WHO (statement of the need or opportunity) - No such application for the College
 
 3) The (PRODUCT NAME) -
 
-4) Is a (product category) - 
-
-5) THAT (key benefit, compelling reason to buy) - 
-
-6) UNLIKE (primary competitive alternative) - Apps
-
-7) OUR PRODUCT (statement of primary differentiation) - 
-
-
-
-Our Application 
-
-1) Name Ideas
-
-	* SetuScholar
+   *Name Ideas
+   	* SetuScholar
 	* Setu(Campus)Companion
 	* SetuCompass
 	* SetuPortal
 	* SetuConnect
 
 
-3) Main page Guest, Student, and Faculty sign-in 
+5) Is a (product category) - 
+
+6) THAT (key benefit, compelling reason to buy) - 
+
+7) UNLIKE (primary competitive alternative) - Apps
+
+8) OUR PRODUCT (statement of primary differentiation) - 
+
+
+
+Our Application 
+
+1) Main page Guest, Student, and Faculty sign-in 
 	
 	* Guest to view newsletters and courses - possible future students
 
 
-4) Timetable 
+2) Timetable 
 
 	* Students and Lectures have their accounts and can access their own timetables
 
 
-5) Courses
+3) Courses
 
 	* Catalog of available courses (Guest and Student)
 
 	* Assignment submissions (Students and Lectures)
 
 
-6) Student Services
+4) Student Services
 
 	* Student Union
 
@@ -73,12 +73,12 @@ Our Application
 	* Clubs & Socs
 
 
-7) Alumni 
+5) Alumni 
 
 	* Events and Networking 
 
 
-8) Career Services 
+6) Career Services 
 
 	* Job postings
 	
