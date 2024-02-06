@@ -18,9 +18,6 @@ App2
 
 Slack
 
-
-
-
 1) FOR (target customer) = Students and Faculty of SETU
 
 2) WHO (statement of the need or opportunity) - No such application for the College
