@@ -14,9 +14,21 @@ App1
 
 Moodle
 
+	*Pros 
+
+ 	*Cons
+
+  	*What can we take from it to better our own application
+
 App2
 
 Slack
+
+	*Pros 
+
+ 	*Cons
+
+  	*What can we take from it to better our own application
 
 1) FOR (target customer) = Students and Faculty of SETU
 
@@ -34,11 +46,11 @@ Slack
 
 5) Is a (product category) - 
 
-6) THAT (key benefit, compelling reason to buy) - 
+6) THAT (key benefit, compelling reason to buy) - Everything at your finger  
 
 7) UNLIKE (primary competitive alternative) - Apps
 
-8) OUR PRODUCT (statement of primary differentiation) - 
+8) OUR PRODUCT (statement of primary differentiation) - Combination with extra features
 
 
 
