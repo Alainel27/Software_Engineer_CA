@@ -26,11 +26,11 @@ App2
 3) The (PRODUCT NAME) -
 
    - Name Ideas
-  	* SetuScholar
-	* Setu(Campus)Companion
-	* SetuCompass
-	* SetuPortal
-	* SetuConnect
+     * SetuScholar
+     * Setu(Campus)Companion
+     * SetuCompass
+     * SetuPortal
+     * SetuConnect
 
 
 5) Is a (product category) - 
