@@ -25,7 +25,7 @@ App2
 
 3) The (PRODUCT NAME) -
 
-   *Name Ideas
+   * Name Ideas
    	* SetuScholar
 	* Setu(Campus)Companion
 	* SetuCompass
