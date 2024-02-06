@@ -14,21 +14,21 @@ App1
 
 Moodle
 
-	*Pros 
+	* Pros 
 
- 	*Cons
+ 	* Cons
 
-  	*What can we take from it to better our own application
+  	* What can we take from it to better our own application
 
 App2
 
 Slack
 
-	*Pros 
+	* Pros 
 
- 	*Cons
+ 	* Cons
 
-  	*What can we take from it to better our own application
+  	* What can we take from it to better our own application
 
 1) FOR (target customer) = Students and Faculty of SETU
 
