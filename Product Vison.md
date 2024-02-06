@@ -12,11 +12,11 @@ the features that you might use in your own design.
 
 App1
 
-	Moodle
+Moodle
 
 App2
 
-	Slack
+Slack
 
 
 1) FOR (target customer) = Students and Faculty of SETU
