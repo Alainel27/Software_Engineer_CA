@@ -14,11 +14,36 @@ App1
 
 Moodle
 
-* Pros 
+Pros
+* Able to view all modules that the student is enrolled in.
+  
+* Download and upload content required either for study or submitting assignments.
+  
+* Calendar with submission dates/time and class attendance.
+  
+* Notifications linked with emails.
+  
+* Editor for how each user wants their home page to be set up.
+  
+* Ability for lecturers to add students to groups for classes or otherwise.
+  
+* Members of groups can be given different permissions.
 
-* Cons
 
-  * What can we take from it to better our own application
+Cons
+
+* Calendar only has submission and attendance markers does not contain a timetable for classes and doesn’t contain national holidays.
+  
+* Only online on a webpage no functional application.
+ 
+* No functionality for campus maps, timetables, etc.
+  
+* Messages sent through the platform take a while to be received.
+
+
+What can we take from it to better our application
+ 
+The main application is solid but there are some areas which can be improved. The calendar, group functionality, notification system and uploading and downloading facilities provide a solid foundation for any application of this type. 
 
 App2
 
