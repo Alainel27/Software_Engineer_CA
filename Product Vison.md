@@ -45,6 +45,28 @@ What can we take from it to better our application
  
 The main application is solid but there are some areas which can be improved. The calendar, group functionality, notification system and uploading and downloading facilities provide a solid foundation for any application of this type. 
 
+**FOR, WHO:**
+
+Moodle is a web application for students and lecturers to manage class content and assignment submission.
+
+**Product category and Product Name**
+
+Moodle is a digital learning and information tool.
+
+**THAT:**
+
+Available online free, employed by universities.
+
+**UNLIKE:**
+
+Unlike Moodle, applications like Canvas are known for their strong mobile abilities allowing users to access course materials on a variety of different devices. 
+
+**OUR PRODUCT:**
+
+An app which creates a more suitable and comfortable user experience for students and lecturers to communicate, designate and complete work.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 App2
 
 Slack
