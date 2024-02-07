@@ -22,7 +22,7 @@ Moodle
 
 App2
 
-Slack
+	Slack
 
 	- Pros 
 Commonly used by lecturers and is a great way to communicate with them, More easier to use than emails and the ability to discuss with the full class.
