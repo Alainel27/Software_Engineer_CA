@@ -14,31 +14,31 @@ App1
 
 Moodle
 
-Pros
-* Able to view all modules that the student is enrolled in.
+- Pros
+  * Able to view all modules that the student is enrolled in.
   
-* Download and upload content required either for study or submitting assignments.
+  * Download and upload content required either for study or submitting assignments.
   
-* Calendar with submission dates/time and class attendance.
+  * Calendar with submission dates/time and class attendance.
   
-* Notifications linked with emails.
+  * Notifications linked with emails.
   
-* Editor for how each user wants their home page to be set up.
+  * Editor for how each user wants their home page to be set up.
   
-* Ability for lecturers to add students to groups for classes or otherwise.
+  * Ability for lecturers to add students to groups for classes or otherwise.
   
-* Members of groups can be given different permissions.
+  * Members of groups can be given different permissions.
 
 
-Cons
+- Cons
 
-* Calendar only has submission and attendance markers does not contain a timetable for classes and doesn’t contain national holidays.
+  * Calendar only has submission and attendance markers does not contain a timetable for classes and doesn’t contain national holidays.
   
-* Only online on a webpage no functional application.
+  * Only online on a webpage no functional application.
  
-* No functionality for campus maps, timetables, etc.
+  * No functionality for campus maps, timetables, etc.
   
-* Messages sent through the platform take a while to be received.
+  * Messages sent through the platform take a while to be received.
 
 
 What can we take from it to better our application
@@ -50,13 +50,13 @@ App2
 Slack
 
 - Pros 
-Commonly used by lecturers and is a great way to communicate with them, More easier to use than emails and the ability to discuss with the full class.
+  - Commonly used by lecturers and is a great way to communicate with them, More easier to use than emails and the ability to discuss with the full class.
 
 - Cons
-  Unfriendly user interface, web appilcation is pushed over to the mobile appliactions (No design for mobile users) and is difficult to set up as in it does not save information across(Setup up again on pc and mobile)
+  - Unfriendly user interface, web appilcation is pushed over to the mobile appliactions (No design for mobile users) and is difficult to set up as in it does not save information across(Setup up again on pc and mobile)
 
  - What can we take from it to better our own application
-   With our analysis of slack, we found that it can benefit from both an overhaul and dedicated apps for both PCs and mobile devices.
+   - With our analysis of slack, we found that it can benefit from both an overhaul and dedicated apps for both PCs and mobile devices.
 
 
 **FOR, WHO:**
