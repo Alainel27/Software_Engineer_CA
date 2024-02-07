@@ -24,13 +24,13 @@ App2
 
 Slack
 
-	* Pros 
+	- Pros 
 Commonly used by lecturers and is a great way to communicate with them, More easier to use than emails and the ability to discuss with the full class.
 
- 	* Cons
+ 	- Cons
   Unfriendly user interface, web appilcation is pushed over to the mobile appliactions (No design for mobile users) and is difficult to set up as in it does not save information across(Setup up again on pc and mobile)
 
-  	* What can we take from it to better our own application
+  	- What can we take from it to better our own application
    Our analysis of slack,
 
 **FOR, WHO:**
