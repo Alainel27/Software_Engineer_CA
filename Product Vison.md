@@ -30,8 +30,9 @@ Commonly used by lecturers and is a great way to communicate with them, More eas
 - Cons
   Unfriendly user interface, web appilcation is pushed over to the mobile appliactions (No design for mobile users) and is difficult to set up as in it does not save information across(Setup up again on pc and mobile)
 
-- What can we take from it to better our own application
-   Our analysis of slack,
+ - What can we take from it to better our own application
+   With our analysis of slack, we found that it can benefit from both an overhaul and dedicated apps for both PCs and mobile devices.
+
 
 **FOR, WHO:**
 
@@ -39,7 +40,7 @@ Slack is an app for students and lecturers to communicate online,
 
 **Product category and Product Name**
 
-Slack is a digital communication tool,
+Slack is a digital communication tool.
 
 **THAT:**
 
