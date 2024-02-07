@@ -25,10 +25,35 @@ App2
 Slack
 
 	* Pros 
+Commonly used by lecturers and is a great way to communicate with them, More easier to use than emails and the ability to discuss with the full class.
 
  	* Cons
+  Unfriendly user interface, web appilcation is pushed over to the mobile appliactions (No design for mobile users) and is difficult to set up as in it does not save information across(Setup up again on pc and mobile)
 
   	* What can we take from it to better our own application
+   Our analysis of slack,
+
+**FOR, WHO:**
+
+Slack is an app for students and lecturers to communicate online,
+
+**Product category and Product Name**
+
+Slack is a digital communication tool,
+
+**THAT:**
+
+Available on mobile devices, free, employed by universities.
+
+**UNLIKE:**
+
+For communication applications like discord could be used better 
+Other apps for employment and universities such as Moodle, workday tends to more commonly used by students and employees.
+
+**OUR PRODUCT:**
+
+An app which creates a more suitable and comfortable user experience for students and lecturers to communicate, designate and complete work.
+-------------------------------------------------------------------------
 
 1) FOR (target customer) = Students and Faculty of SETU
 
