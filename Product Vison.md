@@ -47,13 +47,14 @@ Available on mobile devices, free, employed by universities.
 
 **UNLIKE:**
 
-For communication applications like discord could be used better 
-Other apps for employment and universities such as Moodle, workday tends to more commonly used by students and employees.
+For communication, applications like discord could be used better to communicate with groups and individuals.
+Other apps for employment and universities such as Moodle or workday tends to more commonly used by students and employees.
 
 **OUR PRODUCT:**
 
 An app which creates a more suitable and comfortable user experience for students and lecturers to communicate, designate and complete work.
--------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 1) FOR (target customer) = Students and Faculty of SETU
 
