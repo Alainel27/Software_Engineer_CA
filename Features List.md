@@ -1,4 +1,4 @@
-# Our Applications - Features List
+# Our Applications - Initial Features List
 
 ## Main page Guest, Student, and Faculty sign-in
 
@@ -21,6 +21,7 @@ Courses
 ## Student Services
 
 - Student Union
+- Student and College organised events - Eg. Computing Week and student organised balls
 - Anonymous report system
 
 ## Campus Map
@@ -41,6 +42,7 @@ Courses
 - Career Services
   - Internships
   - Part-time jobs
+    
 ## Exam/Transcripts
 
 - Viewing of all taken exams
