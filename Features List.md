@@ -23,8 +23,12 @@ Courses
 - Student Union
 - Student and College organised events - Eg. Computing Week and student organised balls
 - Timetable for classes
+- Calander
+      - Public holidays
+      - Assingment Deadlines
 - Ability to create group chat for student
-- 
+- Computting & Maths Centre
+      - Booking
 - Anonymous report system and direct message to students class representitiive 
 
 ## Campus Map
