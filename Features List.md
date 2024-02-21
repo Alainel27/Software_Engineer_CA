@@ -25,7 +25,7 @@ Courses
 
 ## Campus Map
 
-- View of all college campuses (
+- View of all college campuses 
     - Waterford
     - Carlow
     - Wexford
