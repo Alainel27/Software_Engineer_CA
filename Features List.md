@@ -41,3 +41,6 @@ Courses
 - Career Services
   - Internships
   - Part-time jobs
+## Exam/Transcripts
+
+- Viewing of all taken exams
