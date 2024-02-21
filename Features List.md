@@ -1,6 +1,6 @@
 # Our Applications - Features List
 
-Main page Guest, Student, and Faculty sign-in
+## Main page Guest, Student, and Faculty sign-in
 
 Guest to view newsletters and courses - possible future students
 Timetable
@@ -12,15 +12,15 @@ Catalog of available courses (Guest and Student)
 
 Assignment submissions (Students and Lectures)
 
-Student Services
+## Student Services
 
 Student Union
 
-Campus Map
+## Campus Map
 
 View of all college campuses (Waterford, Carlow, and Wexford)
 
-Clubs & Socs
+## Clubs & Socs
 
 Alumni
 
