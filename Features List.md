@@ -57,4 +57,10 @@ Courses
 ## Counselling
 
 - Anonymous chat with a Counsellor / Psychotherapist
-    - Booking time with them help with college life 
+    - Booking time with them help with college life
+ 
+       
+# Documentation 
+
+- Took the main features of the applications we looked at for Product Vision ( Mnoodle, Slack )
+- Intial List was created with ideas plus our own and how we wanted the applpication to function for all members of the college not just students 
