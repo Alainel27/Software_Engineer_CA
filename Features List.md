@@ -8,6 +8,12 @@ Timetable
 Students and Lectures have their accounts and can access their own timetables
 Courses
 
+  Profile
+    - Name
+    - Course
+    - Student No.
+    - Contact Info
+
 Catalog of available courses (Guest and Student)
 
 Assignment submissions (Students and Lectures)
