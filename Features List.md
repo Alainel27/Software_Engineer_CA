@@ -62,5 +62,5 @@ Courses
        
 # Documentation 
 
-- Took the main features of the applications we looked at for Product Vision ( Mnoodle, Slack )
+- Took the main features of the applications we looked at for Product Vision ( Moodle, Slack )
 - Intial List was created with ideas plus our own and how we wanted the applpication to function for all members of the college not just students 
