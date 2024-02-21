@@ -8,7 +8,7 @@ Timetable
 Students and Lectures have their accounts and can access their own timetables
 Courses
 
-  Profile
+- Profile : 
     - Name
     - Course
     - Student No.
