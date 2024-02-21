@@ -24,7 +24,7 @@ View of all college campuses (Waterford, Carlow, and Wexford)
 
 Alumni
 
-Events and Networking
+## Events and Networking
 Career Services
 
 Job postings
