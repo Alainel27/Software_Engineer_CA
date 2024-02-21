@@ -11,7 +11,7 @@ Courses
 - Profile : 
     - Name
     - Course
-    - Student No.
+    - Student No. / Emplyee No.
     - Contact Info
 
 Catalog of available courses (Guest and Student)
