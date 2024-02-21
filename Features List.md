@@ -14,25 +14,30 @@ Courses
     - Student No. / Emplyee No.
     - Contact Info
 
-Catalog of available courses (Guest and Student)
+- Catalog of available courses (Guest and Student)
 
-Assignment submissions (Students and Lectures)
+- Assignment submissions (Students and Lectures)
 
 ## Student Services
 
-Student Union
+- Student Union
+- Anonymous report system
 
 ## Campus Map
 
-View of all college campuses (Waterford, Carlow, and Wexford)
+- View of all college campuses (
+    - Waterford
+    - Carlow
+    - Wexford
 
-## Clubs & Socs
+## Extracurricular
 
-Alumni
+- Clubs
+- Volunteer Work
+- Events
 
-## Events and Networking
-Career Services
+## Work Experience
 
-Job postings
-
-Internships
+- Career Services
+  - Internships
+  - Part-time jobs
