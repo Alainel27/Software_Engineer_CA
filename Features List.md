@@ -54,7 +54,7 @@ Courses
 
 - Viewing of all taken exams
 
-## Therapts
+## Counselling
 
 - Anonymous chat with a Counsellor / Psychotherapist
     - Booking time with them help with college life 
