@@ -25,10 +25,10 @@ Courses
 - Timetable for classes
 - Calander
   - Public holidays
-    - Assingment Deadlines
+  - Assingment Deadlines
 - Ability to create group chat for student
 - Computting & Maths Centre
-   - Booking
+  - Booking
 - Anonymous report system and direct message to students class representitiive 
 
 ## Campus Map
