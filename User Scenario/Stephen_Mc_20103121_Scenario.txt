@@ -1,1 +1,6 @@
-Rebecca wants to access her timetable through the central information area of the application. She first logs into the service using her username and password. Once she is logged in, she navigates to the information area from the menu bar at the top of the screen. The system uses Rebecca's information and the groups she's a member of to load all of the relevant sections she can access. She clicks the tab for timetable information. The system loads a new interface, where it displays her lectures, practicals, tutorials and breaks, any changes to her timetable since the previous week, any notices for cancelled classes, any tests or exams during the upcoming week and any classwork or assignments that are due.
+Rebecca wants to access her timetable through the central information area of the application. 
+She first logs into the service using her username and password. 
+Once she is logged in, she navigates to the information area from the menu bar at the top of the screen. 
+The system uses Rebecca's information and the groups she's a member of to load all of the relevant sections she can access. 
+She clicks the tab for timetable information. 
+The system loads a new interface, where it displays her lectures, practicals, tutorials and breaks, any changes to her timetable since the previous week, any notices for cancelled classes, any tests or exams during the upcoming week and any classwork or assignments that are due.
