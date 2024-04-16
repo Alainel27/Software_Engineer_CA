@@ -1,22 +1,24 @@
 package models;
 
+import Utils.Utils;
+
 import java.util.Objects;
 
 public class Event {
 
-    private String name;
+    private String name = "Event Name Error";
 
-    private String date;
+    private String date = "00/00/00";
 
-    private String time;
+    private String time = "00.00";
 
-    private String desc;
+    private String desc = "Event Description";
 
     public Event(String name, String date, String time, String desc) {
-        this.name = name;
-        this.date = date;
-        this.time = time;
-        this.desc = desc;
+        setName(name);
+        setDate(date);
+        setTime(time);
+        setDesc(desc);
     }
 
     public String getName() {
@@ -36,19 +38,27 @@ public class Event {
     }
 
     public void setName(String name) {
-        this.name = name;
+        if(Utils.validStringLength(name,35)) {
+            this.name = name;
+        }
     }
 
     public void setDate(String date) {
-        this.date = date;
+        if(Utils.validStringLength(date,8)) {
+            this.date = date;
+        }
     }
 
     public void setTime(String time) {
-        this.time = time;
+        if(Utils.validStringLength(time,5)) {
+            this.time = time;
+        }
     }
 
     public void setDesc(String desc) {
-        this.desc = desc;
+        if(Utils.validStringLength(desc,55)) {
+            this.desc = desc;
+        }
     }
 
     @Override

@@ -1,17 +1,19 @@
 package models;
 
+import Utils.Utils;
+
 import java.util.Objects;
 
 public class Clubs {
 
-    private String name;
-    private int cost;
-    private String desc;
+    private String name = "Club Name Error";
+    private int cost = 10;
+    private String desc = "Clubs Description";
 
     public Clubs(String name, int cost, String desc) {
-        this.name = name;
-        this.cost = cost;
-        this.desc = desc;
+        setName(name);
+        setCost(cost);
+        setDesc(desc);
     }
 
     public String getName() {
@@ -27,18 +29,23 @@ public class Clubs {
     }
 
     public void setName(String name) {
-        this.name = name;
+        if (Utils.validStringLength(name, 35)) {
+            this.name = name;
+        }
     }
 
     public void setCost(int cost) {
-        this.cost = cost;
+        if((cost >= 5) && (cost <= 25)){
+            this.cost = cost;
+        }
     }
 
     public void setDesc(String desc) {
-        this.desc = desc;
+        if (Utils.validStringLength(desc, 35)) {
+            this.desc = desc;
+        }
     }
 
-    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
