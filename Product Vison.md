@@ -130,7 +130,7 @@ An app which creates a more suitable and comfortable user experience for student
 
 Our Application 
 
-1) Main page Guest, Student, and Faculty sign-in 
+1) Driver page Guest, Student, and Faculty sign-in 
 	
 	* Guest to view newsletters and courses - possible future students
 
